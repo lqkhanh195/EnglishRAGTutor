@@ -1,0 +1,4 @@
+# /tmp/*
+.env
+/__pycache__/*
+/knowledge_base_temp/*
